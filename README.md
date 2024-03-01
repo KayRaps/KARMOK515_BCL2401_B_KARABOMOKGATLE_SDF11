@@ -1,4 +1,7 @@
 ## Slide Presentation link: https://docs.google.com/presentation/d/1qM7UjR8FkjCa7F2OEWI1_vpvo6ffyUrnunOQp0BhDO4/edit?usp=sharing
+## My video presentation link: https://www.loom.com/share/a5ea226cdef54c938cf445a058f8f899?sid=1ece325a-662b-4684-b3bb-2a3ed283b378
+
+
 # Cache Bank Landing Page
 This repository contains the code for the Cache Bank landing page, designed for software developers to explore the features and functionalities of Cache Bank.
 ## Table of Contents
