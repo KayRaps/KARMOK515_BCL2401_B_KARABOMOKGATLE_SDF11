@@ -1,10 +1,18 @@
-## Slide Presentation link: https://docs.google.com/presentation/d/1qM7UjR8FkjCa7F2OEWI1_vpvo6ffyUrnunOQp0BhDO4/edit?usp=sharing
-## My video presentation link: https://www.loom.com/share/a5ea226cdef54c938cf445a058f8f899?sid=1ece325a-662b-4684-b3bb-2a3ed283b378
+## Slide Presentation link: 
+#https://docs.google.com/presentation/d/1qM7UjR8FkjCa7F2OEWI1_vpvo6ffyUrnunOQp0BhDO4/edit?usp=sharing
+## My video presentation link: 
+#https://www.loom.com/share/a5ea226cdef54c938cf445a058f8f899?sid=1ece325a-662b-4684-b3bb-2a3ed283b378
 
 ## I had more to say about Component 5, that I couldn't include, I will work hard on working within the 5minutes. 
 #The first line creates a div element with a class of "w-full bg-green-500", which means the div will take up the full width of the screen and have a green background color.
 #Inside that div, there is another div element witha class of "container flex flex-col mx-auto". This div has a class of "container", which is a common class name to center 
 the content within a certain width of the screen. The "flex" and "flex-col" classes make this div a flex container with a vertical layout.
+#Inside the second div, there is another div element, the w-full and my-20 classes the width and margin of the div.
+#Inside the third div, there is another div element, it adds a margin-bottom of 8 units.
+#The forth div, there are three anchor elements (links) that each contain an SVG image. Each SVG image represents a social media icon(e.g. Twitter, Facebook, Instagram).
+#The SVG images are created using a path elements with various attributes.
+#Overall, this HTML code creates a footer section with social media icons that are styled using SVG images.
+
 
 
 # Cache Bank Landing Page
